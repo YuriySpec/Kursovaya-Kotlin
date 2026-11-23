@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Фон: зелёный круг -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,54m-54,0a54,54 0 1,1 108,0a54,54 0 1,1 -108,0" />
+    <!-- Вилка: белые элементы -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,24L44,44C44,47.3 46.7,50 50,50L50,84L54,84L54,50C57.3,50 60,47.3 60,44L60,24L57,24L57,40L54,40L54,24L50,24L50,40L47,40L47,24Z" />
+    <!-- Нож: белый силуэт -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,24C61,28 60,34 60,40L60,48L64,48L64,84L68,84L68,24Z" />
+</vector>

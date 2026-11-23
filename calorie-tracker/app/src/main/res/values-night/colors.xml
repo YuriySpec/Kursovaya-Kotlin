@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Переопределение цветов для тёмной темы -->
+    <color name="primary">#388E3C</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#1F3320</color>
+    <color name="background">#121413</color>
+    <color name="card">#1E201F</color>
+    <color name="text_primary">#E3E3E0</color>
+    <color name="text_secondary">#9AA09B</color>
+    <color name="icon_default">#9AA09B</color>
+</resources>
